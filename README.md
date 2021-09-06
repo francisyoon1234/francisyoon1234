@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francisyoon1234
-- 👀 I’m interested in ... developing further on learning UX/UI design and coding
+- 👀 I’m interested in ... developing further on learning UX/UI design and HTML, CSS and Javascript
 - 🌱 I’m currently learning ... HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ... UI/UX projects
 - 📫 How to reach me ... is through this gitHub
